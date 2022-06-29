@@ -8,3 +8,6 @@
 
 <p> My portfolio will provide data fundementals, data projects with different types analysis using statistics and data visualisations. </p>
 <p> I hope you find some insights, cheers for now, Alan </p>
+
+<p>I strongly recommend against using any
+<code>&lt;blink&gt;</code> tags.</p>
