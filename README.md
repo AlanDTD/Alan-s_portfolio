@@ -10,4 +10,4 @@
 <p> I hope you find some insights, cheers for now, Alan </p>
 
 <p>I strongly recommend against using any
-<code>&lt;blink&gt;</code> tags.</p>
+
